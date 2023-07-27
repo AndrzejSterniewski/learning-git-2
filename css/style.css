@@ -19,6 +19,10 @@ p {
     width: 300px;
 }
 
+.song  p:last-of-type {
+    font-weight: bold;
+}
+
 .album .album-title {
     font-style: italic;
 }
